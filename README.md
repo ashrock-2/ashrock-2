@@ -5,6 +5,10 @@
   </div>
  -->
  
+## 👋 About Me
+Hi! I'm studying for being **🌐 web front end developer**.<br>
+I enjoy make some stuff people can enjoy. 😊
+ 
 ## 💪 Skills
 <div>
 <img alt="JavaScript" src ="https://img.shields.io/badge/JavScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
