@@ -11,6 +11,7 @@ Hi! I'm studying for being **🌐 web front end developer**.<br>
 ### 💪 Skills
 <div>
 <img alt="JavaScript" src ="https://img.shields.io/badge/JavScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
+<img alt="Node.js" src ="https://img.shields.io/badge/NodeJs-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/>
 </div>
  
 ### 💡 Algorithm
