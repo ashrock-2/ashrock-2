@@ -15,5 +15,7 @@ Hi! I'm studying for being **🌐 web front end developer**.<br>
 </div>
  
 ### 💡 Algorithm
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwotjr3)](https://solved.ac/dlwotjr3)
