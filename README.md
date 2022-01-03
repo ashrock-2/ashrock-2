@@ -5,11 +5,11 @@
   </div>
  -->
  
-## Skills
+## 💪 Skills
 <div>
 <img alt="JavaScript" src ="https://img.shields.io/badge/JavScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
 </div>
  
-## Algorithm
+## 💡 Algorithm
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwotjr3)](https://solved.ac/dlwotjr3)
