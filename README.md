@@ -4,7 +4,9 @@
 	
   </div>
  -->
- 
+🏠
+[ My Blog](https://ashrock.kr/)
+
 ### 👋 About Me
 Hi! I'm studying for being **🌐 web front end developer**.<br>
  
@@ -13,9 +15,6 @@ Hi! I'm studying for being **🌐 web front end developer**.<br>
 <img alt="JavaScript" src ="https://img.shields.io/badge/JavScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
 <img alt="Node.js" src ="https://img.shields.io/badge/NodeJs-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/>
 </div>
- 
-### 💡 Algorithm
-<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwotjr3)](https://solved.ac/dlwotjr3)
