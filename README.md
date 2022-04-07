@@ -5,7 +5,7 @@
   </div>
  -->
 🏠
-[ My Blog](https://ashrock.kr/)
+[Blog](https://ashrock.kr/)
 
 ### 👋 About Me
 Hi! I'm studying for being **🌐 web front end developer**.<br>
