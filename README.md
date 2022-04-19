@@ -6,15 +6,5 @@
  -->
 🏠
 [Blog](https://ashrock.kr/)
-
-### 👋 About Me
-Hi! I'm studying for being **🌐 web front end developer**.<br>
  
-### 💪 Skills
-<div>
-<img alt="JavaScript" src ="https://img.shields.io/badge/JavScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>
-<img alt="Node.js" src ="https://img.shields.io/badge/NodeJs-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white"/>
-</div>
-
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwotjr3)](https://solved.ac/dlwotjr3)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwotjr3)](https://solved.ac/dlwotjr3) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onlee3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
