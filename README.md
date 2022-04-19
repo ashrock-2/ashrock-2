@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=LEON&fontSize=90&fontColor:#111" />
+<!-- <img src="https://capsule-render.vercel.app/api?type=transparent&height=300&section=header&text=LEON&fontSize=90&fontColor:#111" /> -->
 	
 🏠[Blog](https://ashrock.kr/)
 	
