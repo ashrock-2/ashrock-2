@@ -3,7 +3,8 @@
 	
 🏠[Blog](https://ashrock.kr/)
 	
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwotjr3)](https://solved.ac/dlwotjr3) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onlee3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwotjr3)](https://solved.ac/dlwotjr3) 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=onlee3&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- ![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=dlwotjr2) -->
 	
