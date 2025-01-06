@@ -1,2 +1,2 @@
-https://ashrock-texts.pages.dev/
-https://ashrock-photos.pages.dev/
+- texts: https://ashrock-texts.pages.dev/
+- photos: https://ashrock-photos.pages.dev/
