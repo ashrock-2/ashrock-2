@@ -1,1 +1,1 @@
-https://linkedin/in/5252yabai
+linkedin.com/in/5252yabai/
