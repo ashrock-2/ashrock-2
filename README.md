@@ -1,2 +1,1 @@
-- texts: https://ashrock-texts.pages.dev/
-- photos: https://ashrock-photos.pages.dev/
+https://linkedin/in/5252yabai
